@@ -1,6 +1,7 @@
 
-2024年度ゼミ論「水族館内のバリアをなくそう。
-水族館の問題を3Dデータにより可視化し、その課題を解決する。」
+2024年度ゼミ論
+**「水族館内のバリアをなくそう。
+水族館の問題を3Dデータにより可視化し、その課題を解決する。」**
 
 青山学院大学 地球社会共生学部 地球社会共生学科
 
@@ -12,16 +13,15 @@
 
 ©︎Furuhashi Laboratory/Mhiro Takizawa, CC BY 4.0
 
-Abstract
+**Abstract**
+
+**Introduction**
 　
+**Methods**
 
-Introduction
-　
-Methods
+**Results**
 
-Results
-
-Discussion
+**Discussion**
 
 
 Conclusions
