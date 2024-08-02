@@ -14,10 +14,16 @@
 ©︎Furuhashi Laboratory/Mhiro Takizawa, CC BY 4.0
 
 **Abstract**
+水族館の訪問者の減少、少子高齢化に伴い水族館の需要は年々低下していっている。この現状を受け水族館が、障害を持つ方、高齢の方、どなたでも楽しめる場所になって欲しいという思いから、水族館の３Dデータを用いて水族館の可視化することによってその課題を解決することを目指す。
 
 **Introduction**
+
 　
 **Methods**
+1水族館の３DデータをScaniverseでとる
+2そのデータをBlenderへ
+3Blenderでモデリングしていく
+4モデルを作ったら、PLATEAUのデータCityGMLに変換し属性を付与する
 
 **Results**
 
