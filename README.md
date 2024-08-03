@@ -32,8 +32,8 @@
 **Discussion**
 
 
-Conclusions
+**Conclusions**
 
 
-参考文献リスト
+**参考文献リスト**
 
