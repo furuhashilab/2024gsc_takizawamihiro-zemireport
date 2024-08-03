@@ -23,8 +23,11 @@
 **Methods**
 
 1水族館の３DデータをScaniverseでとる
+
 2そのデータをBlenderへ
+
 3Blenderでモデリングしていく
+
 4モデルを作ったら、PLATEAUのデータCityGMLに変換し属性を付与する
 
 **Results**
