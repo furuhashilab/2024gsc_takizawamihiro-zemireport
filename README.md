@@ -30,7 +30,6 @@ Step3.マージさせたデータをBlenderに移し調整する。
 Step4.３Dモデルが完成したら、PLATEAUのデータCityGMLに変換し属性を付与する
 
 # **Results**
-```markdown
 # CloudCompareでのScaniverseデータ読み込み問題の検証
 
 ## 試したステップと結果
@@ -83,7 +82,7 @@ Step4.３Dモデルが完成したら、PLATEAUのデータCityGMLに変換し�
 3. **ファイル転送方法を見直す**
    - **Google Drive ではなく、AirDrop や USB 経由で直接転送してみる。**
    - **ZIP 圧縮ではなく `.tar.gz` 形式を試す。**
-```
+
 
 
 
