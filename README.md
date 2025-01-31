@@ -33,10 +33,9 @@ Step4.３Dモデルが完成したら、PLATEAUのデータCityGMLに変換し�
 CloudCompareでのScaniverseデータ読み込み問題の検証
 
 試したステップと結果
-### Step 1: 基本的な確認
+Step 1: 基本的な確認
 - `.ply` ファイルの拡張子を確認し、正しく設定されていることを確認 → **問題なし**
-
-### Step 2: CloudCompareでのマージ時の問題
+Step 2: CloudCompareでのマージ時の問題
 - **ScaniverseのデータをCloudCompareにドラッグ＆ドロップ**  
   → **エラーが表示され、データを移せない**
 
